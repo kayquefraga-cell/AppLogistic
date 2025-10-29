@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "nome": "Galpão São Paulo",
+        "latitude": -23.55052,
+        "longitude": -46.633308
+    },
+    {
+        "id": "2",
+        "nome": "Galpão Rio de Janeiro",
+        "latitude": -22.906847,
+        "longitude": -43.172896
+    },
+    {
+        "id": "3",
+        "nome": "Galpão Belo Horizonte",
+        "latitude": -19.916681,
+        "longitude": -43.934493
+    }
+]
