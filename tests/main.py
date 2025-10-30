@@ -4,9 +4,9 @@ import sys
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-from confirmaPedidos import lambda_handler as confirma_pedidos
-from calculaGeoLocalização import lambda_handler as calcula_geo
-from processaPedidos import lambda_handler as processa_pedido
+from ConfirmaPedidos import lambda_handler as confirma_pedidos
+from CalculaGeoLocalização import lambda_handler as calcula_geo
+from ProcessaPedido import lambda_handler as processa_pedido
 
 
 def main():
