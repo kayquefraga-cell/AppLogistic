@@ -9,7 +9,6 @@ def calcular_distancia(lat1, lon1, lat2, lon2):
     return R * 2 * math.atan2(math.sqrt(a), math.sqrt(1 - a))
 
 def lambda_handler(event, context=None):
-    """Associa o galpão mais próximo a um pedido."""
     with open("baseDadosPedidos.json", "r") as f:
         pedidos = json.load(f)
 
