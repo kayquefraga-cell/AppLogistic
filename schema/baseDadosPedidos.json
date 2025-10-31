@@ -1,1 +1,25 @@
-[]
+{
+    "pedidos":[
+        {
+            "id": "101",
+            "produto": "Eletrônicos",
+            "quantidade": 50,
+            "destino": "São Paulo, SP",
+            "dataPedido": "2024-06-15"
+        },
+        {
+            "id": "102",
+            "produto": "Roupas",
+            "quantidade": 200,
+            "destino": "Rio de Janeiro, RJ",
+            "dataPedido": "2024-06-16"
+        },
+        {
+            "id": "103",
+            "produto": "Alimentos",
+            "quantidade": 100,
+            "destino": "Belo Horizonte, MG",
+            "dataPedido": "2024-06-17"
+        }
+    ]
+}

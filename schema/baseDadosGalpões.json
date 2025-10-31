@@ -1,20 +1,31 @@
-[
+{
+  "galpões":[
     {
         "id": "1",
         "nome": "Galpão São Paulo",
+        "endereço": "Av. Paulista, 1000, São Paulo, SP",
+        "capacidade": 5000,
+        "tipo": "Armazenagem Geral",
         "latitude": -23.55052,
         "longitude": -46.633308
     },
     {
         "id": "2",
         "nome": "Galpão Rio de Janeiro",
+        "endereço": "Rua do Ouvidor, 50, Rio de Janeiro, RJ",
+        "capacidade": 3000,
+        "tipo": "Armazenagem Frigorificada",
         "latitude": -22.906847,
         "longitude": -43.172896
     },
     {
         "id": "3",
         "nome": "Galpão Belo Horizonte",
+        "endereço": "Av. Afonso Pena, 2000, Belo Horizonte, MG",
+        "capacidade": 4000,
+        "tipo": "Armazenagem Geral",
         "latitude": -19.916681,
         "longitude": -43.934493
     }
-]
+  ]
+}
