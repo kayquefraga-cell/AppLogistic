@@ -1,4 +1,5 @@
 import json
+
 def lambda_handler(event, context=None):
     with open("baseDadosPedidos.json", "r") as f:
         pedidos = json.load(f)

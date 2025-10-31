@@ -1,4 +1,3 @@
-from queue.filapedidos import filaPedidos
 import json
 import uuid
 from datetime import datetime
